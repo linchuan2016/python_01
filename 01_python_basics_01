@@ -1,0 +1,8 @@
+# python basics
+num = [2,1,3]
+num.sort()
+
+s = set('boyy')
+
+print(num)
+print(s)
